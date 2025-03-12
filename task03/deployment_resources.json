@@ -36,7 +36,7 @@
   },
   "task3_api": {
     "resource_type": "api_gateway",
-    "deploy_stage": "api",
+    "deploy_stage": "ap",
     "dependencies": [],
     "resources": {
       "/hello": {
